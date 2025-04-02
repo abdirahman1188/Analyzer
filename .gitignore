@@ -1,0 +1,34 @@
+# Environment variables and API keys
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Data files (if needed)
+data/
+*.csv
+
+# Output files (if needed)
+output/
+results/
+
+# Checkpoint files
+*.txt
+
+# Log files
+*.log
+
+# macOS files
+.DS_Store
