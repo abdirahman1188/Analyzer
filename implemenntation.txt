@@ -1,0 +1,287 @@
+# Implementation Plan: Interactive AI Document Analysis App for Somalia AI Readiness
+
+Your idea to create an interactive UI where you can ask custom questions about the documents and receive targeted answers is excellent. This would significantly enhance the utility of your AI readiness analyzer. Here's a comprehensive implementation plan:
+
+## 1. System Architecture Overview
+
+```
+User Interface (Streamlit)
+    ↓ ↑
+Document Query Engine
+    ↓ ↑
+Vector Store + LLM Integration
+    ↓ ↑
+Document Processing Pipeline (existing)
+```
+
+## 2. Implementation Phases
+
+### Phase 1: Core Query Engine (2-3 days)
+
+1. **Create a DocumentQueryEngine class**:
+   - Accept natural language queries
+   - Support filtering by document name
+   - Retrieve relevant document chunks from vector store
+   - Generate contextual responses using Gemini API
+
+2. **Enhance existing vector store**:
+   - Add metadata for better document filtering
+   - Implement better chunking strategy for more precise retrieval
+
+### Phase 2: Streamlit UI Development (1-2 days)
+
+1. **Build a simple but effective UI with:**
+   - Query input field
+   - Document selector dropdown
+   - Response display area
+   - Options for analysis depth
+   - Export functionality (PDF/Markdown)
+
+2. **UI Features:**
+   - Chat history
+   - Document selection
+   - Query templates for common questions
+   - Response formatting options
+
+### Phase 3: Enhanced Features (2-3 days)
+
+1. **Advanced Query Types:**
+   - Comparative analysis between documents
+   - Synthesis across multiple documents
+   - Custom report generation
+
+2. **Visualization Components:**
+   - Key topic visualization
+   - Document relationship graphs
+   - Sentiment analysis on key topics
+
+## 3. Code Implementation Plan
+
+### Step 1: Create Query Engine
+
+```python
+# document_query_engine.py
+class DocumentQueryEngine:
+    def __init__(self, vector_store, api_key, model_name="gemini-2.0-flash"):
+        self.vector_store = vector_store
+        self.api = GeminiAPI(api_key, model_name)
+        
+    def query(self, query_text, document_filter=None, num_results=5):
+        """Query documents with optional filtering by document name"""
+        # Filter by document name if specified
+        if document_filter:
+            results = self.vector_store.similarity_search(
+                query_text, 
+                num_results=num_results,
+                filter={"filename": document_filter}
+            )
+        else:
+            results = self.vector_store.similarity_search(query_text, num_results)
+            
+        # Build context from results
+        context = self._build_context(results, document_filter)
+        
+        # Generate response
+        return self._generate_response(query_text, context)
+    
+    def _build_context(self, results, document_filter=None):
+        """Build context from search results"""
+        if document_filter:
+            context = f"Based on the document '{document_filter}', here are relevant excerpts:\n\n"
+        else:
+            context = "Based on the provided documents, here are relevant excerpts:\n\n"
+            
+        for i, doc in enumerate(results):
+            context += f"Document: {doc.get('filename', 'Unknown')}\n"
+            context += f"Excerpt {i+1}:\n{doc['text']}\n\n"
+            
+        return context
+    
+    def _generate_response(self, query, context):
+        """Generate response using LLM"""
+        prompt = f"""You are an AI assistant specializing in AI readiness analysis for Somalia.
+        
+Task: Answer the following question based ONLY on the provided context.
+Question: {query}
+
+CONTEXT:
+{context}
+
+Provide a detailed, well-structured answer addressing the question directly.
+If the information is not in the context, say "I don't have enough information to answer this question based on the provided documents."
+"""
+        response = self.api.generate_content(prompt)
+        return response
+        
+    def generate_report(self, topic, document_filters=None, max_length=None):
+        """Generate a comprehensive report on a topic"""
+        # Implementation for generating longer-form reports
+        pass
+```
+
+### Step 2: Create Streamlit App
+
+```python
+# app.py
+import streamlit as st
+import os
+from dotenv import load_dotenv
+from document_query_engine import DocumentQueryEngine
+from vector_store import VectorStore
+
+# Load environment variables
+load_dotenv()
+api_key = os.getenv("GEMINI_API_KEY")
+
+# Page configuration
+st.set_page_config(
+    page_title="Somalia AI Readiness Analyzer",
+    page_icon="🤖",
+    layout="wide"
+)
+
+# Initialize session state
+if "chat_history" not in st.session_state:
+    st.session_state.chat_history = []
+if "vector_store" not in st.session_state:
+    # Load vector store
+    vector_store = VectorStore(api_key)
+    vector_store.load("results/vector_store")
+    st.session_state.vector_store = vector_store
+    st.session_state.doc_query_engine = DocumentQueryEngine(vector_store, api_key)
+    
+    # Get document list from vector store
+    docs = set()
+    for doc in vector_store.documents:
+        if "filename" in doc and doc["filename"]:
+            docs.add(doc["filename"])
+    st.session_state.document_list = sorted(list(docs))
+
+# App header
+st.title("Somalia AI Readiness Analyzer")
+st.subheader("Ask questions about Somalia's AI readiness based on research papers")
+
+# Sidebar
+with st.sidebar:
+    st.header("Options")
+    
+    # Document filter
+    doc_filter = st.selectbox(
+        "Filter by document (optional)",
+        ["All Documents"] + st.session_state.document_list
+    )
+    
+    # Query templates
+    st.subheader("Query Templates")
+    template_options = [
+        "Generate a full paper on Somalia's AI readiness",
+        "What are the key challenges for AI adoption in Somalia?",
+        "What infrastructure is needed for AI readiness in Somalia?",
+        "How does Somalia compare to other African nations in AI readiness?",
+        "What policy recommendations would improve Somalia's AI readiness?"
+    ]
+    
+    template = st.selectbox("Select a template", ["Custom Query"] + template_options)
+    
+    # Report options
+    st.subheader("Report Generation")
+    if st.button("Generate Full AI Readiness Report"):
+        st.session_state.generate_report = True
+
+# Main chat interface
+user_input = st.text_input(
+    "Enter your query about Somalia's AI readiness:",
+    value=template if template != "Custom Query" else ""
+)
+
+# Process query
+if user_input:
+    with st.spinner("Analyzing documents..."):
+        # Set document filter
+        document_filter = None if doc_filter == "All Documents" else doc_filter
+        
+        # Get response
+        response = st.session_state.doc_query_engine.query(
+            user_input,
+            document_filter=document_filter
+        )
+        
+        # Add to chat history
+        st.session_state.chat_history.append({
+            "query": user_input,
+            "response": response,
+            "document_filter": document_filter
+        })
+
+# Display chat history
+for i, chat in enumerate(reversed(st.session_state.chat_history)):
+    st.subheader(f"Query: {chat['query']}")
+    if chat['document_filter']:
+        st.caption(f"Document: {chat['document_filter']}")
+    st.markdown(chat['response'])
+    st.divider()
+
+# Handle report generation
+if st.session_state.get("generate_report", False):
+    with st.spinner("Generating comprehensive AI readiness report..."):
+        report = st.session_state.doc_query_engine.generate_report(
+            "Somalia AI Readiness Analysis"
+        )
+        
+        st.subheader("Somalia AI Readiness Report")
+        st.markdown(report)
+        
+        # Download option
+        st.download_button(
+            "Download Report as Markdown",
+            report,
+            "somalia_ai_readiness_report.md"
+        )
+    
+    # Reset flag
+    st.session_state.generate_report = False
+```
+
+## 4. Key Technical Considerations
+
+1. **Vector Store Enhancement**:
+   - Add metadata filtering capabilities
+   - Optimize chunk size for question answering
+   - Consider adding document-specific embeddings
+
+2. **LLM Prompt Engineering**:
+   - Design prompts for different query types
+   - Include instructions for source attribution
+   - Handle length constraints for detailed reports
+
+3. **Streamlit UI Optimization**:
+   - Add caching for better performance
+   - Implement session management for longer interactions
+   - Add visualization components
+
+4. **Evaluation and Testing**:
+   - Test with diverse query types
+   - Verify accuracy of responses against source documents
+   - Monitor token usage and optimize for cost
+
+## 5. Recommendations
+
+1. **Start Simple, Then Expand**: Begin with a basic query interface and iteratively add features.
+
+2. **Use Template Prompts**: Provide users with template queries for common analysis needs.
+
+3. **Add Source Attribution**: Always show which documents/sections contributed to answers.
+
+4. **Consider Multi-Modal UI**: Add visualization of relationships between documents.
+
+5. **Implement Feedback Loop**: Allow users to rate responses and use this to improve the system.
+
+6. **Consider Fine-Tuning**: For frequently asked questions, consider creating a specialized model.
+
+7. **Handle Long-Form Content**: Implement special handling for generating comprehensive reports.
+
+8. **Add Export Options**: Allow users to export answers in various formats (PDF, Word, markdown).
+
+This implementation plan combines your existing AI readiness analyzer with a powerful query interface, making the insights from your document collection much more accessible and actionable. The Streamlit UI provides a user-friendly way to interact with the system, while the enhanced document query engine ensures relevant and accurate responses.
+
+Would you like more details on any specific part of this implementation plan?
