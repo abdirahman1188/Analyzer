@@ -1,0 +1,68 @@
+{
+  "overview": "The document s44247-024-00111-x.pdf is a research proposal focusing on Artificial Intelligence (AI) and Somalia's data revolution, exploring barriers and pathways for AI adoption in the public sector. It investigates AI's potential to address developmental challenges in low-income countries, particularly in Somalia, by bridging data gaps and improving public service delivery in areas like governance, healthcare, and economic planning. The proposal also examines the potential of AI adoption and implementation in the front-end planning (FEP) phase in the construction industry.",
+  "challenges": [
+    "Limited digital infrastructure",
+    "Low human capital",
+    "Concerns regarding data privacy",
+    "Poor data availability",
+    "Limited digital literacy",
+    "Inadequate infrastructure",
+    "Systemic challenges differing from other regions",
+    "Front-end planning challenges in KSA construction",
+    "Inability to identify process importance",
+    "Conflicting information",
+    "Inadequate time to complete the process",
+    "Lack of knowledge by the client",
+    "Absence of a structured project team",
+    "Project budget exceed",
+    "Goals rarely or never achieved",
+    "Project performance challenges",
+    "Industry\u2019s resistance to change",
+    "Lack of understanding of the technology\u2019s procedures and workflows",
+    "Security, ethics and governance",
+    "High costs, unrealistic expectations, case-related issues, organisational restrictions",
+    "Lack of key AI experts, and technological issues",
+    "Absorptive capacity: Communication and collaboration",
+    "Diversity in the organizational culture creates a stubborn and challenging environment, and that creates conflicts between stakeholders and departments",
+    "Employees attitudes and mindsets"
+  ],
+  "solutions": [
+    "Aligning AI strategies with local needs",
+    "Fostering public-private partnerships",
+    "Investing in capacity-building to ensure successful AI integration",
+    "Develop more and transparent governance and regulatory frameworks",
+    "Establishing project success criteria",
+    "Validating predictions, forecasts, and estimates with confidence",
+    "Implementing effective change management programmes that address employees\u2019 concerns and their resistance and promote a culture of continuous learning and adaptation.",
+    "Offer ongoing training to improve employees\u2019 skills and confidence in using AI technologies, thereby ensuring that they feel competent and appreciated.",
+    "Encourage the development of open and transparent communication channels to ensure that employees are kept informed about the benefits and progress of AI adoption, thereby reducing uncertainty and fostering trust.",
+    "Promote collaboration between government entities and industry actors to standardize best practices and share resources, thereby facilitating more seamless transitions throughout the sector."
+  ],
+  "stakeholders": [
+    "Policymakers",
+    "International development organizations",
+    "Researchers",
+    "International NGOs",
+    "Clients",
+    "Contractors",
+    "Consultants",
+    "Professional engineers",
+    "Decision-makers",
+    "Government",
+    "Senior management",
+    "Employees",
+    "Vendors"
+  ],
+  "metrics": [
+    "Number of AI strategies released per year",
+    "Scores in the Data and Infrastructure pillar",
+    "Average scores for each income group within each dimension of the Technology Sector pillar"
+  ],
+  "required_capabilities": [
+    "Capacity building",
+    "Public-private partnerships",
+    "Context-specific AI strategies",
+    "Skilled workforce",
+    "AI talent"
+  ]
+}

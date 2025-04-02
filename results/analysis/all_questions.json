@@ -1,0 +1,2452 @@
+[
+  {
+    "question": "How is Somalia addressing the challenge of: Project failure due to time and cost overruns and not meeting required quality and project goals.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Challenges related to Front-End Planning (FEP) practices in the construction industry.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Industry\u2019s resistance to change and a lack of understanding of AI technology\u2019s procedures and workflows.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Security, ethics and governance concerns related to AI.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: High costs associated with AI implementation.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Unrealistic expectations regarding AI capabilities.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Case-related issues and organizational restrictions hindering AI adoption.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of key AI experts.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Technological issues.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of data availability and sharing.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Misalignment between current operations and the integration of AI technologies.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Employee resistance to change.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Negative employee attitudes and mindsets.?",
+    "category": "Challenges",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promoting adequate Front-End Planning (FEP) in organizations.?",
+    "category": "Solutions",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Utilizing the TOE framework to identify and address factors influencing AI adoption.?",
+    "category": "Solutions",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Developing strategies aligned with Vision 2030, focusing on employee benefits from AI.?",
+    "category": "Solutions",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Using lessons learned from past projects to establish project success criteria and validate predictions.?",
+    "category": "Solutions",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Integrating new technologies and testing them properly.?",
+    "category": "Solutions",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Addressing the 'people' factor by managing change effectively and improving communication and collaboration among employees.?",
+    "category": "Solutions",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Providing training and workshops to improve employee skills and reduce technical issues.?",
+    "category": "Solutions",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Establishing a government regulatory plan and increasing competitive pressure among organizations.?",
+    "category": "Solutions",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Seeking external support from contractors, vendors, and consulting companies.?",
+    "category": "Solutions",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Senior management investing in change management.?",
+    "category": "Solutions",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Leveraging the benefits of AI, promoting its use, and increasing awareness of its advantages among employees.?",
+    "category": "Solutions",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Ability to access, process, and analyze large amounts of information.?",
+    "category": "Capabilities",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Capacity for data-driven analysis and predictive insights.?",
+    "category": "Capabilities",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Improved decision-making capabilities.?",
+    "category": "Capabilities",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Enhanced communication between stakeholders.?",
+    "category": "Capabilities",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Development and operation of AI applications.?",
+    "category": "Capabilities",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Data privacy, safety, and security measures.?",
+    "category": "Capabilities",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Adequate IT systems and established platforms for AI implementation.?",
+    "category": "Capabilities",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Transparent and integrated data collection approach.?",
+    "category": "Capabilities",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Organizational learning and knowledge sharing.?",
+    "category": "Capabilities",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Skilled workforce with AI expertise.?",
+    "category": "Capabilities",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Financial resources for AI investment.?",
+    "category": "Capabilities",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Public and private stakeholders in the construction sector in Saudi Arabia play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Policymakers play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Key decision makers play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Practitioners play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Clients play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Consultants play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Contractors play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Professional engineers play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Government entities play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Industry actors play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Vendors play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "What role does Employees play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "161f880d-74d1-4ccc-8a19-0fecabd71931.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Weak or insufficient data protection regimes.?",
+    "category": "Challenges",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Complications in achieving robust oversight frameworks to support sustained sector growth.?",
+    "category": "Challenges",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited governance and economic resources to devote to technological and workforce development.?",
+    "category": "Challenges",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited data access.?",
+    "category": "Challenges",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Infrastructure limitations.?",
+    "category": "Challenges",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Scarce political and economic resources.?",
+    "category": "Challenges",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Current global assessment metrics fail to capture the unique realities of African states in their path to AI readiness.?",
+    "category": "Challenges",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Reliance on data sources that may exclude or misrepresent African realities.?",
+    "category": "Challenges",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Indicator definitions that fail to encompass the full spectrum of governmental and economic activities.?",
+    "category": "Challenges",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Improve data infrastructure and protections.?",
+    "category": "Solutions",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promote regional and continental cooperation.?",
+    "category": "Solutions",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Increase public engagement and develop human capital.?",
+    "category": "Solutions",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Tailor global assessments to the unique economic requirements of Africa.?",
+    "category": "Solutions",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Acknowledge the diverse development timelines, economic capacities, and developmental stages of African nations during AI readiness assessments.?",
+    "category": "Solutions",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: A comprehensive and innovative approach that involves integrating diverse sources, resonating with the unique context and aspirations of African nations, is needed.?",
+    "category": "Solutions",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Strategic investments in building AI institutes to facilitate the scaling of local AI research.?",
+    "category": "Solutions",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Integrating STEM training into primary and secondary school curricula and investing in post-secondary training and upskilling initiatives are crucial steps to nurture the human capital necessary to sustain Angola\u2019s emerging AI industry.?",
+    "category": "Solutions",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Strong internal digital capacity.?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Skilled workforce.?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Robust technology sector.?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: High innovation capacity.?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Business environment that supports entrepreneurship.?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Good flow of R&D spending.?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: High-quality data.?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Representative data.?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Infrastructure to power AI tools.?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: AI talent?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Talent and diversity in expertise among team members?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Technology infrastructure?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Data availability?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Absorptive capacity?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Effective communication and collaboration?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Appropriate processes and sufficient resources (financial and individual)?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Effective change management?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Transparent communication?",
+    "category": "Capabilities",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does Governments play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does Public sector play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does Private sector play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does International organizations (e.g., UN, OECD, UNESCO, World Bank) play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does Development banks play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does Cooperation agencies play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does Civil society groups play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does Universities play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does Industry experts play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does General public play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does Technology sector play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "What role does Consulting companies play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "AI_for_Good_Global_Summit_Report_2017.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited digital infrastructure?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Low human capital?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Concerns regarding data privacy?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Poor data availability?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited digital literacy?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Inadequate infrastructure?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Systemic challenges differing from other regions?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Front-end planning challenges in KSA construction?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Inability to identify process importance?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Conflicting information?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Inadequate time to complete the process?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of knowledge by the client?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Absence of a structured project team?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Project budget exceed?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Goals rarely or never achieved?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Project performance challenges?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Industry\u2019s resistance to change?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of understanding of the technology\u2019s procedures and workflows?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Security, ethics and governance?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: High costs, unrealistic expectations, case-related issues, organisational restrictions?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of key AI experts, and technological issues?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Absorptive capacity: Communication and collaboration?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Diversity in the organizational culture creates a stubborn and challenging environment, and that creates conflicts between stakeholders and departments?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Employees attitudes and mindsets?",
+    "category": "Challenges",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Aligning AI strategies with local needs?",
+    "category": "Solutions",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Fostering public-private partnerships?",
+    "category": "Solutions",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Investing in capacity-building to ensure successful AI integration?",
+    "category": "Solutions",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Develop more and transparent governance and regulatory frameworks?",
+    "category": "Solutions",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Establishing project success criteria?",
+    "category": "Solutions",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Validating predictions, forecasts, and estimates with confidence?",
+    "category": "Solutions",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Implementing effective change management programmes that address employees\u2019 concerns and their resistance and promote a culture of continuous learning and adaptation.?",
+    "category": "Solutions",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Offer ongoing training to improve employees\u2019 skills and confidence in using AI technologies, thereby ensuring that they feel competent and appreciated.?",
+    "category": "Solutions",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Encourage the development of open and transparent communication channels to ensure that employees are kept informed about the benefits and progress of AI adoption, thereby reducing uncertainty and fostering trust.?",
+    "category": "Solutions",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promote collaboration between government entities and industry actors to standardize best practices and share resources, thereby facilitating more seamless transitions throughout the sector.?",
+    "category": "Solutions",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Capacity building?",
+    "category": "Capabilities",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Public-private partnerships?",
+    "category": "Capabilities",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Context-specific AI strategies?",
+    "category": "Capabilities",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Skilled workforce?",
+    "category": "Capabilities",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "What role does International development organizations play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "What role does Researchers play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "What role does International NGOs play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "What role does Decision-makers play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "What role does Government play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "What role does Senior management play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "s44247-024-00111-x.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Low human capital (digital literacy)?",
+    "category": "Challenges",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Data gaps and poor data availability?",
+    "category": "Challenges",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Inadequate understanding of the technology\u2019s procedures and workflows?",
+    "category": "Challenges",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Security, ethics and governance issues?",
+    "category": "Challenges",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: High costs of implementation?",
+    "category": "Challenges",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Unrealistic expectations?",
+    "category": "Challenges",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Case-related issues?",
+    "category": "Challenges",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Organizational restrictions?",
+    "category": "Challenges",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of key AI experts?",
+    "category": "Challenges",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Technological issues?",
+    "category": "Challenges",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Using data-driven analyses and predictive insights to improve decision-making?",
+    "category": "Solutions",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Improving the codification, documentation, capturing, dissemination, and management of knowledge?",
+    "category": "Solutions",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Establishing governance and regulations by the government?",
+    "category": "Solutions",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Addressing employees\u2019 concerns and perceptions about AI technology through effective change management?",
+    "category": "Solutions",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Focusing on employees\u2019 capabilities?",
+    "category": "Solutions",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Communicating the benefits of AI adoption with employees?",
+    "category": "Solutions",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Providing training and workshops within organizations to encourage and soothe the process?",
+    "category": "Solutions",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Transparent and integrated data approach?",
+    "category": "Capabilities",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Transparent processes?",
+    "category": "Capabilities",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Transparent and integrated ecosystem?",
+    "category": "Capabilities",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for:  transparent and integrated approach?",
+    "category": "Capabilities",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Transparency in the organization?",
+    "category": "Capabilities",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Transparency between the public and private sectors and support decision-makers?",
+    "category": "Capabilities",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "What role does Public sector stakeholders play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "What role does Private sector stakeholders play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "What role does Key decision makers and practitioners play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "case-studies-of-ai-policy-development-in-africa.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Data gaps?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Absence of specialised studies and practical evaluation of FEP practices?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: The industry\u2019s resistance to change and a lack of understanding of the technology\u2019s procedures and workflows?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Security, ethics and gover-nance, high costs, unrealistic expectations, case-related issues, organisational restrictions, lack of key AI experts, and technological issues?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of specificity of the TOE framework?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Potential overlapping constructs relating to the technological, organisational, and environmental factors?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Context-specific variability?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Complexity in implementation?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Misalignment between current operations and the integration of AI technologies?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited integration between AI systems, legacy construction systems, and processes?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Senior management attitude and mindset that sometimes obstructs innovation?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Data availability and sharing?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Employees\u2019 attitudes, behaviour, and mindsets?",
+    "category": "Challenges",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Investing in capacity-building?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Generative AI can enhance the process of creating novel insights and lessons, as well as facilitate decision-making and problem-solving by improving the codification, documentation, capturing, dissemination, and management of knowledge.?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Using the TOE framework to address the research gap regarding the factors influencing the adoption of AI in FEP.?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Transparency created a culture of change, easy to adopt, monitor, and mature to add responsibility?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Comprehensive change management programmes?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Offer ongoing training to improve employees\u2019 skills and confidence in using AI technologies?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Encourage the development of open and transparent communication channels?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promote collaboration between government entities and industry actors to standardise best practices and share resources?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Government regulatory plan?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Establishing a government regulatory plan?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Government's investments to enrich and accelerate digital transformation by launching the National Transformation Programme (NTP)?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Senior managers should invest in change management?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Effective change management, focusing on employees\u2019 capabilities, communicating the benefits of AI adoption with employees, and providing training and workshops within organisations to encourage and soothe the process?",
+    "category": "Solutions",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Expert resources?",
+    "category": "Capabilities",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Senior management support?",
+    "category": "Capabilities",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Organisational readiness?",
+    "category": "Capabilities",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Financial resources?",
+    "category": "Capabilities",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Individual perspectives?",
+    "category": "Capabilities",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Attitudes?",
+    "category": "Capabilities",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Organisational behaviour?",
+    "category": "Capabilities",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "What role does Public and private stakeholders play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "What role does Trading partners play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "What role does Clients, consultants, and contractors play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Global assessment metrics fail to capture the unique realities of African states in their path to AI readiness.?",
+    "category": "Challenges",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of focus on individual national AI strategies and initiatives within global assessments.?",
+    "category": "Challenges",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Weak or insufficient data protection regimes (Mauritius).?",
+    "category": "Challenges",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Complications in achieving robust oversight frameworks to support sustained sector growth (Kenya, Egypt).?",
+    "category": "Challenges",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited governance and economic resources to devote to technological and workforce development (Angola).?",
+    "category": "Challenges",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Underlying data gaps in global assessments result in disproportionately lower readiness assessment scores for the continent.?",
+    "category": "Challenges",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: The digital divide remains a global challenge.?",
+    "category": "Challenges",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Disparity between high income countries and the rest in the technology sector.?",
+    "category": "Challenges",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Tailored approach to global assessments, emphasizing the importance of addressing local governance challenges and resource availability that vary geographically.?",
+    "category": "Solutions",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Improvement in data infrastructure and protections.?",
+    "category": "Solutions",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Regional and continental cooperation.?",
+    "category": "Solutions",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Public engagement and development of human capital.?",
+    "category": "Solutions",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Targeted qualitative assessments to fully understand the gaps and directions for policymakers to focus on.?",
+    "category": "Solutions",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Reassess indicator measurement strategies and data sources in global assessments.?",
+    "category": "Solutions",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Tailor the assessment approach to Africa\u2019s distinct economic requirements, taking into account capacity, resources, and the continent\u2019s history of technological advancements.?",
+    "category": "Solutions",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Integrate diverse data sources, resonating with the unique context and aspirations of African nations.?",
+    "category": "Solutions",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Data collection and maintenance.?",
+    "category": "Capabilities",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Development of national data and AI strategies.?",
+    "category": "Capabilities",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Implementation of ethical guidelines for AI development and usage.?",
+    "category": "Capabilities",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Implementation of robust measures to safeguard privacy and security.?",
+    "category": "Capabilities",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Promotion of AI skills and research capacity.?",
+    "category": "Capabilities",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Facilitation of partnerships among government, academia, and industry.?",
+    "category": "Capabilities",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Development of policies to mitigate risks and biases inherent in AI systems.?",
+    "category": "Capabilities",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Electrical and data infrastructure?",
+    "category": "Capabilities",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "What role does African nations governments play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "What role does Public research centers play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "What role does African Union play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "What role does UNESCO play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "What role does OECD play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "What role does World Bank play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "The_Impact_of_Technology_on_Economic_Development_i.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited domestic revenue generation?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Undiversified economy dependent on livestock and agriculture?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Climate change impact?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: High unemployment, particularly among youth?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Devastating food insecurity?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Dilapidated state of Somali roads networks?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: High energy costs?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited data availability and sharing?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Attitudes, behavior, and mindsets of employees hindering AI adoption?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of skilled labor?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Organizational culture hindering AI adoption?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Incomplete federalisation process?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Weak governance structures?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Inadequate mechanisms for free and fair elections?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Institutional fragility?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Weak enforcement mechanisms?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Systemic corruption?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited digital infrastructure and low internet penetration?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Inter-clan disputes?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Marginalization?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Weak security measures?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Delays and financial mismanagement?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited public engagement?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Climate vulnerability, including frequent droughts and flooding?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Inadequate access to education and healthcare?",
+    "category": "Challenges",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Implement targeted, high-impact key interventions?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promote private sector development?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Engage global partners and local businesses to drive high-impact investments?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Implement institutional reforms and regulatory enhancements?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Change in organisational culture?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Open data to enhance transparency between the public and private sectors and support decision-makers?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Senior management support to enable transparency and trust, creates a culture of change, and facilitates monitoring, adaptation, and measurement?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Comprehensive change management?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Comprehensive change management programmes that address employees\u2019 concerns and their resistance and promote a culture of continuous learning and adaptation?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Ongoing training to improve employees\u2019 skills and confidence in using AI technologies?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Encourage the development of open and transparent communication channels to ensure that employees are kept informed about the benefits and progress of AI adoption?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Standardisation and collaboration to promote collaboration between government entities and industry actors to standardise best practices and share resources?",
+    "category": "Solutions",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Skilled workforce with relevant expertise?",
+    "category": "Capabilities",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Robust IT infrastructure and expert resources?",
+    "category": "Capabilities",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Transparent and integrated approach to data collection?",
+    "category": "Capabilities",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Government support?",
+    "category": "Capabilities",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Openness to collaboration and knowledge sharing?",
+    "category": "Capabilities",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Change management expertise?",
+    "category": "Capabilities",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Data governance?",
+    "category": "Capabilities",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Accountability?",
+    "category": "Capabilities",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Adaptability?",
+    "category": "Capabilities",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "What role does Ministries, Departments and Agencies (MDAs) play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "What role does Development partners play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "What role does Private sector entities play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "What role does Civil society organisations play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "What role does Federal Government of Somalia (FGS) play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "What role does Federal Member States (FMS) play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "NTP Report 2025-2029 All.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Weak or insufficient data protection regimes (Mauritius)?",
+    "category": "Challenges",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Complications in achieving robust oversight frameworks to support sustained sector growth (Kenya, Egypt)?",
+    "category": "Challenges",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited governance and economic resources to devote to technological and workforce development (Angola)?",
+    "category": "Challenges",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited data access?",
+    "category": "Challenges",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Infrastructure limitations?",
+    "category": "Challenges",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Scarce political and economic resources?",
+    "category": "Challenges",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Gaps in source data on which assessments are based often ignore significant policy and economic achievements of African states?",
+    "category": "Challenges",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Tailored approach to global assessments, emphasizing the importance of addressing local governance challenges and resource availability?",
+    "category": "Solutions",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Focusing on specific policy improvement?",
+    "category": "Solutions",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Improve Data Infrastructure and Protections by improving the quality of public data and providing clear guidelines for data access?",
+    "category": "Solutions",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Regional and Continental Cooperation by sharing best practices?",
+    "category": "Solutions",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Public Engagement and Development of Human Capital by implementing clear opportunities for public input and incorporating workforce development?",
+    "category": "Solutions",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Harnessing local AI talent by recruiting experts for taskforces to guide governmental efforts on AI regulation?",
+    "category": "Solutions",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Strategic investments in building AI institutes to facilitate the scaling of local AI research?",
+    "category": "Solutions",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Integrating STEM training into primary and secondary school curricula and investing in post-secondary training and upskilling initiatives?",
+    "category": "Solutions",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Data protection legislation?",
+    "category": "Capabilities",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Information and communication technology development?",
+    "category": "Capabilities",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Digital governance?",
+    "category": "Capabilities",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Technically skilled workforce?",
+    "category": "Capabilities",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: National policies or strategies that focus on creating baseline technological engagement and deployment?",
+    "category": "Capabilities",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Assessments of the speed of adoption of new technologies?",
+    "category": "Capabilities",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "What role does African states play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "What role does Civil society play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "Post Flood Solutions Assessment Final_DSS 052020.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Existing gaps in source data on which assessments are based ignore significant policy and economic achievements of African states?",
+    "category": "Challenges",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Challenges associated with corruption?",
+    "category": "Challenges",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Tailored approach to global assessments, emphasizing the importance of addressing local governance challenges and resource availability.?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Strengthening data access and protection?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Regional and Continental Cooperation: Sharing best practices, improving global competitiveness.?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Public Engagement and Development of Human Capital: Implementing clear opportunities for public input and incorporating workforce development and technical skill-building provisions.?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Harnessing local AI talent by recruiting experts for taskforces to guide governmental efforts on AI regulation (Angola).?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Strategic investments in building AI institutes to facilitate the scaling of local AI research (Angola).?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Integrating STEM training into primary and secondary school curricula and investing in post-secondary training and upskilling initiatives (Angola).?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Improved data infrastructure?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Robust oversight frameworks?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Increased governance and economic resources?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: National policies or strategies for creating baseline technological engagement and deployment?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Capacity for data collection and maintenance?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Electrical and data infrastructure to enhance research capabilities?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "What role does African nations play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "2403.14662v1 (2).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Weak or insufficient data protection regimes?",
+    "category": "Challenges",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Complications in achieving robust oversight frameworks to support sustained sector growth?",
+    "category": "Challenges",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited governance and economic resources to devote to technological and workforce development?",
+    "category": "Challenges",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Disparity between high and low income economies (digital divide)?",
+    "category": "Challenges",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Immature domestic tech sector?",
+    "category": "Challenges",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of federal data privacy legislation?",
+    "category": "Challenges",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Employee resistance to change?",
+    "category": "Challenges",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Attitudes, behavior, and mindsets of employees?",
+    "category": "Challenges",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Targeted policy improvements?",
+    "category": "Solutions",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Improving investment in AI?",
+    "category": "Solutions",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Creating a robust enabling environment?",
+    "category": "Solutions",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Harnessing local AI talent?",
+    "category": "Solutions",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Investing in electrical and data infrastructure?",
+    "category": "Solutions",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Integrating STEM training into curricula?",
+    "category": "Solutions",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Ongoing training and development?",
+    "category": "Solutions",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Transparent communication?",
+    "category": "Solutions",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Standardization and collaboration?",
+    "category": "Solutions",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Strong internal digital capacity?",
+    "category": "Capabilities",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Adaptability in the face of new technologies?",
+    "category": "Capabilities",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Mature technology sector?",
+    "category": "Capabilities",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: High innovation capacity?",
+    "category": "Capabilities",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Supportive business environment?",
+    "category": "Capabilities",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Good flow of R&D spending?",
+    "category": "Capabilities",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: High-quality data?",
+    "category": "Capabilities",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Representative data?",
+    "category": "Capabilities",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Infrastructure to power AI tools?",
+    "category": "Capabilities",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "What role does Citizens play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "What role does International organizations (e.g., UN, World Bank, UNESCO, OECD) play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "2023-Government-AI-Readiness-Index-1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Strengthening Data Access and Protection?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Regional and Continental Cooperation?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Public Engagement and Development of Human Capital?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Harnessing local AI talent by recruiting experts for taskforces to guide governmental efforts on AI regulation (Angola)?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Investments in electrical and data infrastructure are vital to enhance research capabilities (Angola)?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Strategic investments in building AI institutes to facilitate the scaling of local AI research (Angola)?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Integrating STEM training into primary and secondary school curricula and investing in post-secondary training and upskilling initiatives are crucial steps to nurture the human capital necessary to sustain Angola\u2019s emerging AI industry (Angola)?",
+    "category": "Solutions",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Improve the quality of their public data?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Provide clear guidelines for data access meant for private and public usage?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Collaboration with civil society groups, universities, or public research centers for data collection?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Sharing best practices on a bilateral or regional basis?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Implementation of clear opportunities for public input from all sectors of society?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Incorporate workforce development and technical skill-building provisions within their respective AI and data governance strategies?",
+    "category": "Capabilities",
+    "source": "2403.14662v1 (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Leveraging AI for data-driven decision-making?",
+    "category": "Solutions",
+    "source": "ArtificialIntelligenceandSomaliasDataRevolutionBarriersandPathways.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Improving public service accessibility?",
+    "category": "Solutions",
+    "source": "ArtificialIntelligenceandSomaliasDataRevolutionBarriersandPathways.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Supporting disaster resilience efforts?",
+    "category": "Solutions",
+    "source": "ArtificialIntelligenceandSomaliasDataRevolutionBarriersandPathways.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Complications in achieving robust oversight frameworks?",
+    "category": "Challenges",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Industry\u2019s resistance to change and a lack of understanding of the technology\u2019s procedures and workflows?",
+    "category": "Challenges",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Security, ethics and governance, high costs, unrealistic expectations, case-related issues, organisational restrictions, lack of key AI experts, and technological issues?",
+    "category": "Challenges",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Employees\u2019 attitudes, behaviour, and mindsets are key to an organisation\u2019s readiness to adopt AI. They misunderstand the advantages of AI, fearing that it will take their jobs?",
+    "category": "Challenges",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: The digital divide remains a global challenge?",
+    "category": "Challenges",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Homogeneous cultures?",
+    "category": "Challenges",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Improve data infrastructure and protections?",
+    "category": "Solutions",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Regional and Continental Cooperation, Sharing best practices on a bilateral or regional basis can facilitate greater progress?",
+    "category": "Solutions",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Implement effective change management programmes that address employees\u2019 concerns and their resistance and promote a culture of continuous learning and adaptation?",
+    "category": "Solutions",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Offer ongoing training to improve employees\u2019 skills and confidence in using AI technologies, thereby ensuring that they feel competent and appreciated?",
+    "category": "Solutions",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Encourage the development of open and transparent communication channels to ensure that employees are kept informed about the benefits and progress of AI adoption, thereby reducing uncertainty and fostering trust?",
+    "category": "Solutions",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promote collaboration between government entities and industry actors to standardise best practices and share resources, thereby facilitating more seamless transitions throughout the sector?",
+    "category": "Solutions",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: A mature technology sector?",
+    "category": "Capabilities",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: A business environment that supports entrepreneurship?",
+    "category": "Capabilities",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Infrastructure necessary to power AI tools and deliver them to citizens?",
+    "category": "Capabilities",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Skilled workforce, including AI expertise?",
+    "category": "Capabilities",
+    "source": "Kenya National AI Strategy (Draft) for Public Validation  [14-01-2025] (1).pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Digital divide remains a global challenge, particularly in Data Availability and Infrastructure between high and low-income economies.?",
+    "category": "Challenges",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Disparity within the Technology Sector pillar between high-income countries and others, especially in Innovation Capacity and Human Capital.?",
+    "category": "Challenges",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Risk of reliance on foreign technology if domestic tech sectors are immature.?",
+    "category": "Challenges",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Global governance trends: Increased international collaboration on AI is needed to address risks and equitably distribute benefits.?",
+    "category": "Challenges",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Challenges of government AI adoption in Sub-Saharan Africa.?",
+    "category": "Challenges",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited data access, infrastructure limitations, and scarce political and economic resources challenge African states\u2019 ability to develop and utilize AI technologies.?",
+    "category": "Challenges",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of focus on individual national AI strategies and initiatives within global assessments fails to capture the significant work African states are undertaking to improve their AI readiness.?",
+    "category": "Challenges",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Establishing robust foundations for AI governance.?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Addressing the digital divide with a solid base of data and infrastructure.?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Fostering equitable and inclusive advancements in AI readiness.?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promoting international collaboration on AI governance and ethics.?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Support from cooperation agencies and development banks for developing countries on AI governance.?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Developing national AI strategies, data protection policies, and government digital transformation initiatives.?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Improving AI governance and regulation.?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Simultaneously, investments in electrical and data infrastructure are vital to enhance research capabilities (Angola).?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Building AI institutes to facilitate the scaling of local AI research (Angola).?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Integrating STEM training into primary and secondary school curricula and investing in post-secondary training and upskilling initiatives are crucial steps to nurture the human capital necessary to sustain Angola\u2019s emerging AI industry (Angola).?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Sharing best practices on a bilateral or regional basis can facilitate greater progress for the continent and position it as a global leader in defined areas of the field.?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Implementing clear opportunities for public input from all sectors of society: from industry experts, civil society, and the general public.?",
+    "category": "Solutions",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Strategic vision for AI development and governance?",
+    "category": "Capabilities",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Appropriate regulation and attention to ethical risks?",
+    "category": "Capabilities",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Strong internal digital capacity, including skills and practices?",
+    "category": "Capabilities",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Mature technology sector capable of supplying AI tools?",
+    "category": "Capabilities",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Supportive business environment for entrepreneurship?",
+    "category": "Capabilities",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: High-quality data (data availability and representativeness)?",
+    "category": "Capabilities",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Robust infrastructure to power AI tools?",
+    "category": "Capabilities",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "What role does AI developers play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "What role does International organizations (UN, OECD, UNESCO, World Bank) play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "What role does Cooperation agencies and development banks (GIZ FAIR Forward, World Economic Forum, AU-EU Digital for Development (D4D) Hub) play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "What role does Private companies play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "UNDP-Strategic-Plan-2022-2025_1.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Data privacy concerns?",
+    "category": "Challenges",
+    "source": "undp-somalia-resilience-and-climate-change-factsheet-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Integrating AI into public sectors (governance, healthcare, economic planning)?",
+    "category": "Solutions",
+    "source": "undp-somalia-resilience-and-climate-change-factsheet-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Developing context-specific AI strategies?",
+    "category": "Solutions",
+    "source": "undp-somalia-resilience-and-climate-change-factsheet-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Transparent and integrated approach to enhance data collection?",
+    "category": "Capabilities",
+    "source": "undp-somalia-resilience-and-climate-change-factsheet-2025.pdf"
+  },
+  {
+    "question": "What role does Government regulatory plan play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "undp-somalia-resilience-and-climate-change-factsheet-2025.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Project failure (time and cost overruns, not meeting quality and goals)?",
+    "category": "Challenges",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Difficulties in extracting crucial insights and lessons learned from past experiences in FEP.?",
+    "category": "Challenges",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Inability to identify process importance, conflicting information, inadequate time to complete the process, a lack of knowledge by the client, and the absence of a structured project team.?",
+    "category": "Challenges",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Substantial obstacles to achieving theoretical advantages of FEP methods.?",
+    "category": "Challenges",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Front-end performance challenges related to structure and tools, context and frame factors, management, and relational factors and properties.?",
+    "category": "Challenges",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Data availability and sharing challenges, including trust issues and lack of established governance and regulations.?",
+    "category": "Challenges",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Senior management attitude and mindset obstructing innovation?",
+    "category": "Challenges",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Diversity in organisational culture creating a stubborn and challenging environment leading to conflicts between stakeholders and departments.?",
+    "category": "Challenges",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Employee resistance to change due to fear of job loss and misunderstanding of AI benefits.?",
+    "category": "Challenges",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Fear of change, of technology, of learning something new, and of failing to be an expert.?",
+    "category": "Challenges",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promote adequate FEP in organizations to fulfil KSA Vision 2030 goals.?",
+    "category": "Solutions",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Adopting AI in FEP to improve practices, leading to precise predictions and accurate decision-making, and boosting project performance.?",
+    "category": "Solutions",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Transforming raw data and information into valuable insights and lessons for FEP using AI.?",
+    "category": "Solutions",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Establishing project success criteria and validating predictions, forecasts, and estimates with confidence using lessons learned.?",
+    "category": "Solutions",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Effective change management to address employees\u2019 concerns.?",
+    "category": "Solutions",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Offering ongoing training to improve employees\u2019 skills and confidence in using AI technologies.?",
+    "category": "Solutions",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Encouraging the development of open and transparent communication channels?",
+    "category": "Solutions",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promote collaboration between government entities and industry actors to standardize best practices and share resources?",
+    "category": "Solutions",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Technology infrastructure (IT systems, established platform for implementing and integrating AI)?",
+    "category": "Capabilities",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: IT experts (developing and operating applications, ensuring data privacy, safety, and security)?",
+    "category": "Capabilities",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Data (availability, accuracy, privacy, and security)?",
+    "category": "Capabilities",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Senior management support (leadership, change management)?",
+    "category": "Capabilities",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Resources (financial and human)?",
+    "category": "Capabilities",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Absorptive capacity (communication, collaboration, knowledge, capabilities, mindset, attitude, training, expertise)?",
+    "category": "Capabilities",
+    "source": "buildings-14-02460.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Low human capital/limited digital literacy?",
+    "category": "Challenges",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Data gaps and poor data availability/representativeness?",
+    "category": "Challenges",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Data privacy and security concerns?",
+    "category": "Challenges",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Industry resistance to change?",
+    "category": "Challenges",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Lack of understanding of AI technology?",
+    "category": "Challenges",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Inadequate front-end planning (FEP) practices?",
+    "category": "Challenges",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Resistance to data sharing between organizations?",
+    "category": "Challenges",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Employee resistance to change, fear of job loss, fear of technology?",
+    "category": "Challenges",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Diversity in organizational culture can create challenges?",
+    "category": "Challenges",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "How is Somalia addressing the challenge of: Limited financial resources?",
+    "category": "Challenges",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Align AI strategies with local needs?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Foster public-private partnerships?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Invest in capacity-building and training?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Develop context-specific AI strategies?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promote adequate front-end planning (FEP)?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Use AI to improve communication between stakeholders?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Automate processes?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Mitigate risk?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Enhance efficiency?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Improve data collection and sharing practices?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Establish clear governance and regulations?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Change management programs addressing employee concerns?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promote a culture of continuous learning and adaptation?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Develop open and transparent communication channels?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Government support and investment in technology?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Invest in change management to increase senior manager and stakeholder buy-in?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Integrate AI into FEP to improve project delivery?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Open data initiatives to enhance transparency?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Promote knowledge sharing?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Adopt data protection and privacy legislation?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Implement ethical AI guidelines?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Integrate STEM training into primary and secondary school curricula?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Support external stakeholders (contractors, vendors and consulting companies)?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "To what extent has Somalia implemented the solution: Foster innovation and creativity within organizations?",
+    "category": "Solutions",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Digital infrastructure?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Digital literacy?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Data collection and analysis skills?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: AI expertise?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Cybersecurity expertise?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Project management skills?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Change management skills?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Communication and collaboration skills?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Leadership skills?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Absorptive capacity (ability to learn and apply new knowledge)?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Accountability and transparency?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "Does Somalia have the capability for: Established data and AI platforms?",
+    "category": "Capabilities",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "What role does International organizations like the United Nations Development Programme (UNDP) and the World Bank play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "What role does Public sector organizations play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "What role does Private sector organizations play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  },
+  {
+    "question": "What role does The African Union play in Somalia's AI readiness?",
+    "category": "Stakeholders",
+    "source": "030325-The-Mobile-Economy-2025.pdf"
+  }
+]

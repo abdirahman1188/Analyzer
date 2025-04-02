@@ -1,0 +1,55 @@
+{
+  "overview": "This document explores the AI readiness of organizations, particularly in the construction industry of Saudi Arabia, focusing on front-end planning (FEP). It uses the technology\u2013organization\u2013environment (TOE) framework to identify key factors influencing AI adoption and the challenges involved.",
+  "challenges": [
+    "Project failure (time and cost overruns, not meeting quality and goals)",
+    "Difficulties in extracting crucial insights and lessons learned from past experiences in FEP.",
+    "Inability to identify process importance, conflicting information, inadequate time to complete the process, a lack of knowledge by the client, and the absence of a structured project team.",
+    "Substantial obstacles to achieving theoretical advantages of FEP methods.",
+    "Front-end performance challenges related to structure and tools, context and frame factors, management, and relational factors and properties.",
+    "Industry\u2019s resistance to change and a lack of understanding of the technology\u2019s procedures and workflows",
+    "Security, ethics and governance, high costs, unrealistic expectations, case-related issues, organisational restrictions, lack of key AI experts, and technological issues",
+    "Data availability and sharing challenges, including trust issues and lack of established governance and regulations.",
+    "Misalignment between current operations and the integration of AI technologies",
+    "Limited integration between AI systems, legacy construction systems, and processes",
+    "Senior management attitude and mindset obstructing innovation",
+    "Diversity in organisational culture creating a stubborn and challenging environment leading to conflicts between stakeholders and departments.",
+    "Employee resistance to change due to fear of job loss and misunderstanding of AI benefits.",
+    "Fear of change, of technology, of learning something new, and of failing to be an expert."
+  ],
+  "solutions": [
+    "Promote adequate FEP in organizations to fulfil KSA Vision 2030 goals.",
+    "Adopting AI in FEP to improve practices, leading to precise predictions and accurate decision-making, and boosting project performance.",
+    "Transforming raw data and information into valuable insights and lessons for FEP using AI.",
+    "Establishing project success criteria and validating predictions, forecasts, and estimates with confidence using lessons learned.",
+    "Effective change management to address employees\u2019 concerns.",
+    "Offering ongoing training to improve employees\u2019 skills and confidence in using AI technologies.",
+    "Encouraging the development of open and transparent communication channels",
+    "Promote collaboration between government entities and industry actors to standardize best practices and share resources"
+  ],
+  "stakeholders": [
+    "Public and private stakeholders in the construction sector in Saudi Arabia",
+    "Policymakers",
+    "Clients",
+    "Contractors",
+    "Consultants",
+    "Professional engineers",
+    "Decision-makers",
+    "Employees"
+  ],
+  "metrics": [
+    "Effort spent on FEP",
+    "Overall project success",
+    "Meeting business goals",
+    "Mitigating risk and reducing cost during execution",
+    "Improving project performance",
+    "Accurate prediction and overall quality of the project"
+  ],
+  "required_capabilities": [
+    "Technology infrastructure (IT systems, established platform for implementing and integrating AI)",
+    "IT experts (developing and operating applications, ensuring data privacy, safety, and security)",
+    "Data (availability, accuracy, privacy, and security)",
+    "Senior management support (leadership, change management)",
+    "Resources (financial and human)",
+    "Absorptive capacity (communication, collaboration, knowledge, capabilities, mindset, attitude, training, expertise)"
+  ]
+}

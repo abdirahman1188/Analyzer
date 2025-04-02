@@ -1,0 +1,70 @@
+{
+  "overview": "This document is the UNDP Strategic Plan for 2022-2025. However, no information about its key details or insights is provided in the given context. Other documents provide information on AI Readiness Index 2023 and case studies of AI policy development in Africa.",
+  "challenges": [
+    "Digital divide remains a global challenge, particularly in Data Availability and Infrastructure between high and low-income economies.",
+    "Disparity within the Technology Sector pillar between high-income countries and others, especially in Innovation Capacity and Human Capital.",
+    "Risk of reliance on foreign technology if domestic tech sectors are immature.",
+    "Global governance trends: Increased international collaboration on AI is needed to address risks and equitably distribute benefits.",
+    "Challenges of government AI adoption in Sub-Saharan Africa.",
+    "Limited data access, infrastructure limitations, and scarce political and economic resources challenge African states\u2019 ability to develop and utilize AI technologies.",
+    "Weak or insufficient data protection regimes (Mauritius).",
+    "Complications in achieving robust oversight frameworks to support sustained sector growth (Kenya, Egypt).",
+    "Limited governance and economic resources to devote to technological and workforce development (Angola).",
+    "Lack of focus on individual national AI strategies and initiatives within global assessments fails to capture the significant work African states are undertaking to improve their AI readiness."
+  ],
+  "solutions": [
+    "Establishing robust foundations for AI governance.",
+    "Addressing the digital divide with a solid base of data and infrastructure.",
+    "Fostering equitable and inclusive advancements in AI readiness.",
+    "Promoting international collaboration on AI governance and ethics.",
+    "Support from cooperation agencies and development banks for developing countries on AI governance.",
+    "Developing national AI strategies, data protection policies, and government digital transformation initiatives.",
+    "Improving AI governance and regulation.",
+    "Harnessing local AI talent by recruiting experts for taskforces to guide governmental efforts on AI regulation (Angola).",
+    "Simultaneously, investments in electrical and data infrastructure are vital to enhance research capabilities (Angola).",
+    "Building AI institutes to facilitate the scaling of local AI research (Angola).",
+    "Integrating STEM training into primary and secondary school curricula and investing in post-secondary training and upskilling initiatives are crucial steps to nurture the human capital necessary to sustain Angola\u2019s emerging AI industry (Angola).",
+    "Sharing best practices on a bilateral or regional basis can facilitate greater progress for the continent and position it as a global leader in defined areas of the field.",
+    "Implementing clear opportunities for public input from all sectors of society: from industry experts, civil society, and the general public."
+  ],
+  "stakeholders": [
+    "Governments",
+    "Citizens",
+    "Technology sector",
+    "AI developers",
+    "Researchers",
+    "International organizations (UN, OECD, UNESCO, World Bank)",
+    "Cooperation agencies and development banks (GIZ FAIR Forward, World Economic Forum, AU-EU Digital for Development (D4D) Hub)",
+    "UNESCO",
+    "Private companies",
+    "Civil society groups",
+    "Universities"
+  ],
+  "metrics": [
+    "Government AI Readiness Index score",
+    "Scores in Government, Technology Sector, and Data & Infrastructure pillars",
+    "Number of AI strategies released per year",
+    "Scores in Data Availability and Infrastructure dimensions",
+    "Average scores for income groups within dimensions of the Technology Sector pillar",
+    "Number of AI unicorns and non-AI tech unicorns",
+    "Number of AI research papers",
+    "Quality of engineering and technology higher education",
+    "ICT skills",
+    "Graduates in STEM or computer science",
+    "Data protection and privacy legislation",
+    "Cybersecurity Global Cybersecurity Index",
+    "Regulatory quality Worldwide Governance Indicators",
+    "Number of AI unicorns CB Insights"
+  ],
+  "required_capabilities": [
+    "Strategic vision for AI development and governance",
+    "Appropriate regulation and attention to ethical risks",
+    "Strong internal digital capacity, including skills and practices",
+    "Mature technology sector capable of supplying AI tools",
+    "High innovation capacity",
+    "Supportive business environment for entrepreneurship",
+    "Good flow of R&D spending",
+    "High-quality data (data availability and representativeness)",
+    "Robust infrastructure to power AI tools"
+  ]
+}

@@ -62,16 +62,11 @@ env.bak/
 venv.bak/
 analyze_venv/
 
-# Data files (if needed)
-data/
-*.csv
+# Data files - exclude original PDFs but include chunks
+data/papers/*.pdf
 
-# Output files (if needed)
+# Exclude output directory
 output/
-results/
-
-# Checkpoint files
-# *.txt  # COMMENTED OUT to allow requirements.txt
 
 # Log files
 *.log

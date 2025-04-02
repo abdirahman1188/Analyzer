@@ -1,0 +1,47 @@
+{
+  "overview": "This document (2403.14662v1 [cs.CY]) focuses on AI policy development in Africa, arguing that existing global readiness assessments fail to fully capture African states' progress and identifying crucial nuances often overlooked. It advocates for a tailored approach to global assessments, emphasizing the importance of addressing local governance challenges and resource availability that vary geographically.",
+  "challenges": [
+    "Weak or insufficient data protection regimes (Mauritius)",
+    "Complications in achieving robust oversight frameworks to support sustained sector growth (Kenya, Egypt)",
+    "Limited governance and economic resources to devote to technological and workforce development (Angola)",
+    "Limited data access",
+    "Infrastructure limitations",
+    "Scarce political and economic resources",
+    "Existing gaps in source data on which assessments are based ignore significant policy and economic achievements of African states",
+    "Challenges associated with corruption"
+  ],
+  "solutions": [
+    "Tailored approach to global assessments, emphasizing the importance of addressing local governance challenges and resource availability.",
+    "Strengthening data access and protection",
+    "Regional and Continental Cooperation: Sharing best practices, improving global competitiveness.",
+    "Public Engagement and Development of Human Capital: Implementing clear opportunities for public input and incorporating workforce development and technical skill-building provisions.",
+    "Harnessing local AI talent by recruiting experts for taskforces to guide governmental efforts on AI regulation (Angola).",
+    "Strategic investments in building AI institutes to facilitate the scaling of local AI research (Angola).",
+    "Integrating STEM training into primary and secondary school curricula and investing in post-secondary training and upskilling initiatives (Angola)."
+  ],
+  "stakeholders": [
+    "African nations",
+    "Policymakers",
+    "International development organizations",
+    "Researchers",
+    "Industry experts",
+    "Civil society",
+    "General public"
+  ],
+  "metrics": [
+    "Foundational Technology Infrastructure",
+    "Speed of Technological Innovation Adoption",
+    "Enabling Environment for AI Legislation",
+    "Economic and Development Context",
+    "Geopolitical Context"
+  ],
+  "required_capabilities": [
+    "Improved data infrastructure",
+    "Robust oversight frameworks",
+    "Increased governance and economic resources",
+    "Skilled workforce",
+    "National policies or strategies for creating baseline technological engagement and deployment",
+    "Capacity for data collection and maintenance",
+    "Electrical and data infrastructure to enhance research capabilities"
+  ]
+}
